@@ -1,9 +1,9 @@
 import './App.css';
-import Shine from './components/Shine';
+import Shine from './component/Shine.js';
 function App() {
   return (
     <div className="App">
-        <Shine imgUrl="https://images.unsplash.com/photo-1616166330003-8b8b2b2b5b1a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" />
+        <Shine imgUrl="https://www.bing.com/th?id=OIP.2sA_t9fLcvDFMqNfjWhEkAHaE8&w=174&h=185&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" />
     </div>
   );
 }
