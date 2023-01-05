@@ -1,5 +1,5 @@
 import './App.css';
-
+import Shine from './components/Shine';
 function App() {
   return (
     <div className="App">
