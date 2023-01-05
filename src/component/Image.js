@@ -17,4 +17,5 @@ const Shine = ({imgUrl}) => {
     return (
         <img className="shine" ref={shineRef} src={imgUrl} ></img>
     )
-}
+};
+export default Shine;
